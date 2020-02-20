@@ -7,7 +7,7 @@ def length(x):
 
 
 def substr(x, i):  # slicing
-    return x[i+1:]
+    return x[i:]
 
 
 if __name__ == '__main__':
